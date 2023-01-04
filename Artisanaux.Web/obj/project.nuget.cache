@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GnFHDKuov0/L/uI4uzPnzI7/GHfikB6mRz9gR/Aof5WQNkXmeU1UGgd3zwdO5a0kry7xVHcm/so4a1tlN4A7SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\emsi\\5éme_année\\dev-multi-plateforme\\ECommerce-Artisanaux\\Artisanaux.Web\\Artisanaux.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
